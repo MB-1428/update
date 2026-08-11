@@ -1,6 +1,6 @@
 {
-    "version": "2.5",
-    "updateNotice": "新增ios液態玻璃 (還沒做好 目前只是測試版)",
-    "downloadUrl": "https://github.com/1140060-ui/update/releases/download/APP/XSAI_2.5.apk",
-    "forceUpdate": false
+  "version" : "2.8",
+  "updateNotice" : "修復已知問題",
+  "downloadUrl" : "https://raw.githubusercontent.com/1140060-ui/update/refs/heads/main/XSAI_2.3.apk",
+  "forceUpdate" : false
 }
