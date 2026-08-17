@@ -1,6 +1,8 @@
 {
-  "version" : "2.8",
+  "version" : "3.1",
   "updateNotice" : "修復已知問題",
-  "downloadUrl" : "https://raw.githubusercontent.com/1140060-ui/update/refs/heads/main/XSAI_2.3.apk",
-  "forceUpdate" : false
+  "downloadUrl" : "https://github.com/MB-1428/update/releases/download/APP/XSAI_2.8.apk",
+  "forceUpdate" : false,
+  "maintenance" : false,
+  "maintenanceMsg" : "系統維護中"
 }
