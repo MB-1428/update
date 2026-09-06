@@ -1,8 +1,8 @@
 {
   "version" : "3.6",
-  "updateNotice" : "修復閃退問題 \n 修復已知問題",
-  "downloadUrl" : "https://github.com/MB-1428/update/releases/download/APP/XSAI_3.4.apk",
-  "forceUpdate" : false,
-  "maintenance" : false,
-  "maintenanceMsg" : "系統維護中"
+  "updateNotice" : "修復已知問題",
+  "downloadUrl" : "https://raw.githubusercontent.com/1140060-ui/update/refs/heads/main/XSAI_2.3.apk",
+  "forceUpdate" : true,
+  "maintenance" : true,
+  "maintenanceMsg" : ""
 }
