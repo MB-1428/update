@@ -1,8 +1,8 @@
 {
-  "version" : "3.6",
-  "updateNotice" : "修復已知問題",
-  "downloadUrl" : "https://raw.githubusercontent.com/1140060-ui/update/refs/heads/main/XSAI_2.3.apk",
-  "forceUpdate" : true,
-  "maintenance" : true,
-  "maintenanceMsg" : ""
+  "version": "3.6",
+  "updateNotice": "",
+  "downloadUrl": "1",
+  "forceUpdate": false,
+  "maintenance": false,
+  "maintenanceMsg": ""
 }
